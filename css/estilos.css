@@ -236,3 +236,7 @@ form.form_contact input[type="button"]:hover{
 
 	float: right;
 }
+#asunto {
+    white-space: normal; /* Asegura que el texto se ajuste */
+    padding-left: 5px;   /* Ajusta aquí si quieres un pequeño margen controlado */
+}
